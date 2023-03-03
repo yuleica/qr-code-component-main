@@ -27,8 +27,8 @@ There is a directory with my project's screen capture, named "capturas de pantal
 
 ### 2.Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://qr-code-component-main-gray-phi.vercel.app/
+- Live Site URL: https://qr-code-component-main-gray-phi.vercel.app/
 
 ## My process:
 
